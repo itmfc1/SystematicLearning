@@ -60,7 +60,7 @@ ifconfig: /sbin/ifconfig /usr/share/man/man8/ifconfig.8.gz
 
 
 
-小节一下
+小结一下
 
 * cd
 * ls
