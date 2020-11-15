@@ -170,9 +170,3 @@ lrwxrwxrwx. 1 root root    7 Nov 15 09:21 123 -> profile
   * 一致时间
   * 创建新文本
 
-
-
-
-
-
-
