@@ -32,6 +32,56 @@ Yum（全称为 Yellow dog Updater, Modified）是一个[Shell](https://baike.ba
 
 
 
+6.5
+
+https://vault.centos.org/6.5/isos/x86_64/
+
+```
+CentOS-6.5-x86_64-bin-DVD1.iso	2013-11-29 12:11	4.2G	 
+
+CentOS-6.5-x86_64-bin-DVD2.iso	2013-11-29 12:11	1.2G
+
+CentOS-6.5-x86_64-minimal.iso	2013-11-29 12:14	398M
+```
+
+
+
+6.7
+
+https://vault.centos.org/6.7/isos/x86_64/
+
+```
+CentOS-6.7-x86_64-bin-DVD1.iso	2015-08-04 21:51	3.6G	 
+ 
+CentOS-6.7-x86_64-bin-DVD2.iso	2015-08-04 21:51	2.0G	 
+
+CentOS-6.7-x86_64-minimal.iso	2015-08-04 21:59	395M
+```
+
+
+
+自己下载指定的文件
+
+
+
+开始前切换光盘
+
+![image-20201120223530469](../image/image-20201120223530469.png)
+
+
+
+切换光盘
+
+![image-20201120223706252](../image/image-20201120223706252.png)
+
+
+
+
+
+`CentOS-6.5-x86_64-bin-DVD1.iso`
+
+`CentOS-6.7-x86_64-bin-DVD1.iso`
+
 
 
 ```shell
