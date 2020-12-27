@@ -247,3 +247,34 @@ shutdown -h now
 
 单机kafak-总结
 
+
+
+
+
+zookeeper和kafak
+
+```shell
+# 进入zookeeper目录
+cd /usr/apache-zookeeper-3.6.2-bin
+
+# 启动zookeeper
+./bin/zkServer.sh start zoo.cfg
+
+# 关闭zookeeper
+./bin/zkServer.sh stop zoo.cfg
+
+# 进入kafka目录
+cd /usr/kafka_2.11-2.2.0
+
+# 启动kafak
+./bin/kafka-server-start.sh -daemon config/server.properties
+
+# 关闭kafak
+./bin/kafka-server-stop.sh
+
+# 查看java应用程序
+jps
+```
+
+
+
