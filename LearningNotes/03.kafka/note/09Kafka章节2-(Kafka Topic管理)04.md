@@ -148,13 +148,13 @@ topic管理
 
 查看现在的组信息
 
-![image-20201228204456801](D:\data\IdeaProjects-2020.11.07\SystematicLearning\LearningNotes\03.kafka\image\image-20201228204456801.png)
+![image-20201228204456801](../image/image-20201228204456801.png)
 
 查看g1组的详细信息
 
 
 
-![image-20201228204734136](D:\data\IdeaProjects-2020.11.07\SystematicLearning\LearningNotes\03.kafka\image\image-20201228204734136.png)
+![image-20201228204734136](../image/image-20201228204734136.png)
 
 
 
